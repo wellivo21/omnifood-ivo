@@ -4,4 +4,6 @@ This repository contains the front-end "part" of the Omnifood project, built whi
 
 Link of aforementionaed course: https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/
 
+Copyright by Jonas Schmedtmann. This version was made by me for learning purposes.
+
 Link for website: https://omnifood-ivo.netlify.app/
