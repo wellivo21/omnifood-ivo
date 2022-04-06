@@ -6,4 +6,4 @@ Link of aforementionaed course: https://www.udemy.com/course/design-and-develop-
 
 Copyright by Jonas Schmedtmann. This version was made by me for learning purposes.
 
-Link for website: https://omnifood-ivo.netlify.app/
+Netlify hosted website: https://omnifood-ivo.netlify.app/
